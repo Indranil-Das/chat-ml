@@ -1,2 +1,2 @@
-# chat-ml
- analyse text
+"# chat-analyser" 
+"# chat-analyzer" 
